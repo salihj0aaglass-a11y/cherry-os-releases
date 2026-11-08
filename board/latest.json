@@ -1,7 +1,7 @@
 {
-  "version": "1.0.2",
-  "file": "cherry-board-1.0.2.tar.gz",
-  "sha256": "238e1cb674bca17c0fca071d313bbe1ebf1d8b98324c562fefd306e6d07aacc5",
-  "notes": "قلم للكتابة فوق أي صفحة، Plickers، وأسماء الكتب بالمادة فقط",
-  "date": "2026-11-08T16:27:36.239Z"
+  "version": "1.0.3",
+  "file": "cherry-board-1.0.3.tar.gz",
+  "sha256": "8efcb183dc94c75095a314ae3ba5265e316af3c3bd403c3181e46de2d9e84aa3",
+  "notes": "تفاصيل بطاقة الواي فاي في الإعدادات",
+  "date": "2026-11-08T17:03:48.409Z"
 }
