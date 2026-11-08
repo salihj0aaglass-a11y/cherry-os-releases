@@ -1,7 +1,7 @@
 {
-  "version": "1.0.0",
-  "file": "cherry-board-1.0.0.tar.gz",
-  "sha256": "ff0001dd62d6908f69c7c73a9286b558510495e119cfac413fca52ecd429fc62",
-  "notes": "Cherry Board 1.0 — first version for smartboards",
-  "date": "2026-11-08T15:25:18.088Z"
+  "version": "1.0.1",
+  "file": "cherry-board-1.0.1.tar.gz",
+  "sha256": "6229dbee14dcf79c5a766ef7d38d0d08e918327554dad296c02e23998e2bd278",
+  "notes": "Touch screens: keyboard, swipes and animations fixed for finger use",
+  "date": "2026-11-08T16:07:36.289Z"
 }
