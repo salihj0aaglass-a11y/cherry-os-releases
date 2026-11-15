@@ -1,7 +1,7 @@
 {
-  "version": "1.0.30",
-  "file": "cherry-board-1.0.30.tar.gz",
-  "sha256": "fb2b339f0c6fca6ab2ca119cdefd10d2d5df7679b627635c1b18960e16168e2a",
-  "notes": "رابط قصير: افتح plickcherry.local من اللاب توب بدل الأرقام — يفتح أسئلة cherry plickers مباشرة، و plickcherry.local/files لإرسال الملفات",
-  "date": "2026-11-15T13:33:28.831Z"
+  "version": "1.0.31",
+  "file": "cherry-board-1.0.31.tar.gz",
+  "sha256": "3d77b63001512ed1bb39576a5160beca4f95e9dfe0280b4e52d0ffbf915d41bb",
+  "notes": "cherry plickers من أي مكان: المعلّم يكتب الأسئلة من البيت، وجواله يرسل البطاقات حتى من بيانات الجوال. رمز السبورة والرقم السري في الإعدادات ← استقبال الملفات",
+  "date": "2026-11-15T13:56:25.941Z"
 }
