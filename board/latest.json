@@ -1,7 +1,7 @@
 {
-  "version": "1.0.29",
-  "file": "cherry-board-1.0.29.tar.gz",
-  "sha256": "a0670c5ad1c03dc7262c4a8dee736bd0c47a0c54e1953e0fce5c6d2ac7ea6867",
-  "notes": "لعبة جديدة: cherry plickers — المعلّم يكتب الأسئلة وأسماء الطلاب من اللاب توب ويطبع بطاقة QR لكل طالب، ثم يصوّر الفصل بجواله فتظهر إجابات الجميع · وسهم الفأرة صار مخفياً على السبورة",
-  "date": "2026-11-13T08:23:08.554Z"
+  "version": "1.0.30",
+  "file": "cherry-board-1.0.30.tar.gz",
+  "sha256": "fb2b339f0c6fca6ab2ca119cdefd10d2d5df7679b627635c1b18960e16168e2a",
+  "notes": "رابط قصير: افتح plickcherry.local من اللاب توب بدل الأرقام — يفتح أسئلة cherry plickers مباشرة، و plickcherry.local/files لإرسال الملفات",
+  "date": "2026-11-15T13:33:28.831Z"
 }
