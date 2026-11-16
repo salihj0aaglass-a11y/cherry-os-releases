@@ -1,8 +1,8 @@
 {
-  "version": "1.0.34",
-  "file": "cherry-board-1.0.34.tar.gz",
-  "sha256": "e751ec2dc77d3df487414db549d41a5a20e4337fb153dbfa4d4226a9115f42d2",
-  "notes": "cherry plickers: كلمة مرور حقيقية للمدرسة (أحرف وأرقام) ويغيّرها المعلّم من الموقع بزر 🔑",
-  "date": "2026-11-15T19:51:08.087Z",
+  "version": "1.0.35",
+  "file": "cherry-board-1.0.35.tar.gz",
+  "sha256": "84b5d11f96fd4a1fca3c2d15e9e75d35d684f22ad98ba812d484f845b5c52316",
+  "notes": "الفلاشات تظهر في الملفات حتى لو كانت السبورة تعمل من DVD أو من نفس الفلاشة. والسبورة تجعل نفسها تبدأ وحدها عند تشغيل الجهاز من الفلاشة — بدون Advanced Startup — وويندوز من زر «شغّل ويندوز»",
+  "date": "2026-11-16T17:18:56.235Z",
   "cloud": "https://cherry-os.salihj0aaglass.workers.dev"
 }
