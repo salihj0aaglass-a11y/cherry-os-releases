@@ -1,8 +1,8 @@
 {
-  "version": "1.0.37",
-  "file": "cherry-board-1.0.37.tar.gz",
-  "sha256": "4a2662a536474f59cfadb7f229b578793dad53c67ddc7934e1798ef74cefd04d",
-  "notes": "cherry plickers: ورقة العمل تقبل ملف PDF أيضاً — كل صفحة (حتى ١٠ صفحات) تصير أسئلة",
-  "date": "2026-11-16T17:35:23.349Z",
+  "version": "1.0.38",
+  "file": "cherry-board-1.0.38.tar.gz",
+  "sha256": "1c859c5e1db12eae83c8e75c93eccaef30fa91ca1ec984eea1203e0e0b4e8260",
+  "notes": "cherry plickers: قراءة ملفات PDF الطويلة (حتى ٢٠ صفحة) أسرع وأدق، وتوضيح سبب أي خطأ",
+  "date": "2026-11-16T17:41:22.521Z",
   "cloud": "https://cherry-os.salihj0aaglass.workers.dev"
 }
