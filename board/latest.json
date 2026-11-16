@@ -1,8 +1,8 @@
 {
-  "version": "1.0.35",
-  "file": "cherry-board-1.0.35.tar.gz",
-  "sha256": "84b5d11f96fd4a1fca3c2d15e9e75d35d684f22ad98ba812d484f845b5c52316",
-  "notes": "الفلاشات تظهر في الملفات حتى لو كانت السبورة تعمل من DVD أو من نفس الفلاشة. والسبورة تجعل نفسها تبدأ وحدها عند تشغيل الجهاز من الفلاشة — بدون Advanced Startup — وويندوز من زر «شغّل ويندوز»",
-  "date": "2026-11-16T17:18:56.235Z",
+  "version": "1.0.36",
+  "file": "cherry-board-1.0.36.tar.gz",
+  "sha256": "8a1c4aca2bca7b38e9c74de80ac189daf1818d32d20e371a39504f893fea0858",
+  "notes": "cherry plickers: ورقة A4 كاملة لكل طالب — بدون قص — مع مساحة فارغة حول البطاقة لمسك الورقة، ورمز أكبر يُقرأ من بعيد",
+  "date": "2026-11-16T17:23:09.244Z",
   "cloud": "https://cherry-os.salihj0aaglass.workers.dev"
 }
