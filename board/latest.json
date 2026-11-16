@@ -1,8 +1,8 @@
 {
-  "version": "1.0.36",
-  "file": "cherry-board-1.0.36.tar.gz",
-  "sha256": "8a1c4aca2bca7b38e9c74de80ac189daf1818d32d20e371a39504f893fea0858",
-  "notes": "cherry plickers: ورقة A4 كاملة لكل طالب — بدون قص — مع مساحة فارغة حول البطاقة لمسك الورقة، ورمز أكبر يُقرأ من بعيد",
-  "date": "2026-11-16T17:23:09.244Z",
+  "version": "1.0.37",
+  "file": "cherry-board-1.0.37.tar.gz",
+  "sha256": "4a2662a536474f59cfadb7f229b578793dad53c67ddc7934e1798ef74cefd04d",
+  "notes": "cherry plickers: ورقة العمل تقبل ملف PDF أيضاً — كل صفحة (حتى ١٠ صفحات) تصير أسئلة",
+  "date": "2026-11-16T17:35:23.349Z",
   "cloud": "https://cherry-os.salihj0aaglass.workers.dev"
 }
