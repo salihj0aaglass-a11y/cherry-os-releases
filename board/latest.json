@@ -1,8 +1,8 @@
 {
-  "version": "1.0.38",
-  "file": "cherry-board-1.0.38.tar.gz",
-  "sha256": "1c859c5e1db12eae83c8e75c93eccaef30fa91ca1ec984eea1203e0e0b4e8260",
-  "notes": "cherry plickers: قراءة ملفات PDF الطويلة (حتى ٢٠ صفحة) أسرع وأدق، وتوضيح سبب أي خطأ",
-  "date": "2026-11-16T17:41:22.521Z",
+  "version": "1.0.39",
+  "file": "cherry-board-1.0.39.tar.gz",
+  "sha256": "db9bdaf6338e8714e7e6e0276fbdb90bb3384a61b84aab5e7ee4df705c16a5ef",
+  "notes": "إصلاح مهم: الإصدارات ١.٠.٣٣ إلى ١.٠.٣٨ كانت تتوقف على شاشة البدء الحمراء. هذا الإصدار يعيد السبورة للعمل.",
+  "date": "2026-11-17T11:17:28.849Z",
   "cloud": "https://cherry-os.salihj0aaglass.workers.dev"
 }
